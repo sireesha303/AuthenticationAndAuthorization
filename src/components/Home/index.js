@@ -1,7 +1,7 @@
-
+import Header from '../Header/index'
 
 const Home = () => (
-    <h1>heading</h1>
+    <Header/>
 )       
 
 export default Home
